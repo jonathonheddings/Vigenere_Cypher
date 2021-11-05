@@ -1,4 +1,4 @@
-# Poly-alphabetic shift cypher (a.k.a. Vigenere Cypher)
+# Poly-alphabetic Shift Cypher (a.k.a. Vigenere Cypher)
 This is just a basic set of encryption functions for encoding text using a basic Vigenere Cypher
 
 ---
