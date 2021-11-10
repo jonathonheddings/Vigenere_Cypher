@@ -39,7 +39,7 @@ This function when ran on an appropriate plaintext will return an illegible cyph
     print('Encrypted: ', b)
     print('Decrypted: ', vigenere_decrypt(b, 'banana')
 ```
-produces the following output
+Produces the following output: 
 ```
 Plaintext:  The Big Oxmox advised her not to do so, because there were thousands of bad Commas
 Key:  "banana"
