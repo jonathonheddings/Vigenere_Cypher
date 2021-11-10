@@ -12,7 +12,7 @@ This is just a basic set of encryption functions for encoding text using a basic
    this is not an easy process). 
 
 #### Encryption Function
-```
+```python
 def vigenere_encrypt(message, key):
 
     # Inits variables to store the cyphertext and for looping
@@ -31,7 +31,7 @@ def vigenere_encrypt(message, key):
 ```
 
 This function when ran on an appropriate plaintext will return an illegible cyphertext. The following testing code on a sample string:
-```
+```python
     a = 'The Big Oxmox advised her not to do so, because there were thousands of bad Commas'
     b = vigenere_encrypt(a, 'banana')
     print('Plaintext: ', a)
